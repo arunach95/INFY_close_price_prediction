@@ -9,7 +9,7 @@ This project predicts the **closing price of Infosys (INFY.NS)** by integrating 
 - **Stock Price Prediction**: Implements a **Random Forest Regressor**, optimized using **GridSearchCV**.
 - **Deployment**: A **Streamlit web app** allows real-time stock price prediction at the click of a button.
 
-st.markdown("![Alt Text](https://example.com/image.jpg)")
+"![Alt Text](UI Flow.drawio.png)"
 
 ## 🚀 Future Enhancements
 
