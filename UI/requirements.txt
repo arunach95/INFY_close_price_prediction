@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+streamlit
+selenium
+webdriver-manager
+requests
+beautifulsoup4
+transformers
+nltk
+matplotlib
+seaborn
+torch
